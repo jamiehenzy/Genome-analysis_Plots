@@ -1,2 +1,2 @@
 # Genome Analysis – Plots
-This repo contains material for Assignment 5 (Plots) of the Genome Analysis course at Northeastern University.
+This repo contains material for the "Plots" assignment of the Genome Analysis course at Northeastern University.
